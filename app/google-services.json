@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "284376625868",
+    "project_id": "gpsuteq-f9f9e",
+    "storage_bucket": "gpsuteq-f9f9e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284376625868:android:55774025c4b5972ede0869",
+        "android_client_info": {
+          "package_name": "com.example.gpsuteq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFSfMeIFum9UHk6C-hEdKfwcdlxfsxEOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
